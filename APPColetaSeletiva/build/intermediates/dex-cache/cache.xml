@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\9892ae6c6096d39bf362105fea422470292b2b9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcf6305eed510f91964b2d97576b2fb95ee7e209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\ae157ac0237f90dc73c746911844210cd9fd0d6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_975600128737c9acd2f0662b68528b805b19bebd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_837f4e12e88f3537938ebecc9a24e5f7c739c472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\447fd147096b83bc51dcaf8ffe2bf7e695bb348f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29deb2424453f78f1e1b3eda1d10cf0e0db56acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\379a0b472bd079b7da2df4cb060ccb27db2445d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c105b6ac55a401a171b6f93632cd774b991cf347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86f8f2914996f2171bf02517ae5cb077e2a43c3b">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9bba3c9c56aac07d043ab6fc1662bdd15dece795\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\59bda9d0ff64efa04530ca4c08e0eea181d33660\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be2084a4dad16d5c10f08171c31e8ec4998f6bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\28eac1afe2790c65d1d44829ea6e2d8e53a97242\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47934548d9eb7bcf2b6c893a1c15b17f44476f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GCC\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c7983ad564626d0711f988909118b30748cec6f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\406764f9a948b9afc313b99eb1adcca838da38d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bebd9276a2bce08e39cdf44185f2daabd437e19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\859ac602437be8ee7635867c5e71a7107b2e368f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2eb596bafc9eb28e00f003aa3dc534ff3431533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\f3419d9b78cb61b662ba511b4abe12f36f2b786d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\GCC\AndroidStudioProjects\APPColetaSeletiva\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ab2250c5d40cee75d32849346bee475390ff7b3\classes.dex" />
+    </item>
+
+</items>
